@@ -15,6 +15,7 @@ R (Recency - months since last donation),
 F (Frequency - total number of donation), 
 M (Monetary - total blood donated in c.c.), 
 T (Time - months since first donation), and a binary variable representing whether he/she donated blood in March 2007 (1 stand for donating blood; 0 stands for not donating blood).
+
 Variable Data Type Measurement Description min max mean std
 Recency quantitative Months Input 0.03 74.4 9.74 8.07 Frequency quantitative Times Input 1 50 5.51 5.84
 Monetary quantitative c.c. blood Input 250 12500 1378.68 1459.83
