@@ -29,3 +29,37 @@ Recency quantitative Months Input 0.03 74.4 9.74 8.07 Frequency quantitative Tim
 Monetary quantitative c.c. blood Input 250 12500 1378.68 1459.83
 Time quantitative Months Input 2.27 98.3 34.42 24.32
 Whether he/she donated blood in March 2007 binary 1=yes 0=no Output 0 1 1 (24%) 0 (76%)
+
+
+# objective
+Set up the project environment with necessary libraries.
+
+Load the dataset into a DataFrame.
+
+Preview the initial entries of the dataset.
+
+Preview the final entries of the dataset.
+
+Get an overview of the dataset's structure
+
+Check the dimensions of the dataset
+
+Checking for Missing Values:
+Identify and handle missing data
+
+Checking for Duplicated Values:
+Detect and remove duplicate entries
+
+Confirm the data types of each column
+
+Compute descriptive statistics
+
+Exploratory Data Analysis and Visualization with Seaborn:
+
+Visualize data to uncover patterns and insights
+
+Prepare the data for model training and evaluation
+
+Train a model and evaluate its performance
+
+
